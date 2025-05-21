@@ -135,17 +135,3 @@ Filters based on IP, port, or protocols.
 
 
 
-
-
-🔹 Comparison Table:
-Device  	        OSI Layer	            Function	              Intelligence
-Hub              	Layer 1     	Broadcasts data	                      No
-Switch	          Layer 2     	Sends data to intended device	        Yes
-Router	          Layer 3	      Connects different networks	          Yes
-Bridge	          Layer 2     	Connects and filters LANs           	Yes
-Gateway	All layers	Protocol conversion	Yes
-Modem	Layer 1	Converts analog ↔ digital signals	No
-Repeater	Layer 1	Signal amplification	No
-Access Point	Layer 2	Wireless connectivity	Yes
-NIC	Layer 1 & 2	Network access for a device	Yes
-Firewall	Layer 3/4/7	Network security	Yes
